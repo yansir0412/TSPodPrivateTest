@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/yanxin/TSPodPrivateTest'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'yanxin' => '345387567@qq.com' }
+  s.author           = { 'yanxin0905' => '345387567@qq.com' }
   s.source           = { :git => 'https://github.com/yanxin0905/TSPodPrivateTest.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
