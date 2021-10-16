@@ -1,4 +1,4 @@
-# TSPodPrivateTest
+# TSPodPrivateTest 0.1.0
 
 [![CI Status](https://img.shields.io/travis/yanxin/TSPodPrivateTest.svg?style=flat)](https://travis-ci.org/yanxin/TSPodPrivateTest)
 [![Version](https://img.shields.io/cocoapods/v/TSPodPrivateTest.svg?style=flat)](https://cocoapods.org/pods/TSPodPrivateTest)
