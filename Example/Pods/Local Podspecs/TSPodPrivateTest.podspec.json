@@ -3,16 +3,16 @@
   "version": "0.1.0",
   "summary": "A short description of TSPodPrivateTest.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/yanxin/TSPodPrivateTest",
+  "homepage": "https://github.com/yanxin0905/TSPodPrivateTest",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "yanxin": "345387567@qq.com"
+    "yanxin0905": "345387567@qq.com"
   },
   "source": {
-    "git": "https://github.com/yanxin/TSPodPrivateTest.git",
+    "git": "https://github.com/yanxin0905/TSPodPrivateTest.git",
     "tag": "0.1.0"
   },
   "platforms": {

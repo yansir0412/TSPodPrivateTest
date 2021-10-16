@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "NIMFriendsSelectAllBarView.h"
 
 FOUNDATION_EXPORT double TSPodPrivateTestVersionNumber;
 FOUNDATION_EXPORT const unsigned char TSPodPrivateTestVersionString[];
