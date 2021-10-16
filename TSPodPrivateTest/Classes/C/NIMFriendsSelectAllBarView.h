@@ -15,7 +15,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic,strong) UILabel *selectAllLabel;
 @property (nonatomic,copy)  void(^selectAllClickBlock)(NIMFriendsSelectAllBarView *barView,BOOL isSelect);
 
-- (void)refreshWithSelect:(BOOL)isSelect;
+//- (void)refreshWithSelect:(BOOL)isSelect;
 
 @end
 

@@ -6,8 +6,8 @@
 //
 
 #import "NIMFriendsSelectAllBarView.h"
-#import "UIImage+NIMKit.h"
-#import "NIMAvatarImageView.h"
+//#import "UIImage+NIMKit.h"
+//#import "NIMAvatarImageView.h"
 
 @interface NIMFriendsSelectAllBarView ()
 
@@ -16,6 +16,7 @@
 
 @implementation NIMFriendsSelectAllBarView
 
+/*
 -(instancetype)initWithFrame:(CGRect)frame {
     
     if (self = [super initWithFrame:frame]) {
@@ -23,7 +24,6 @@
     }
     return self;
 }
-
 - (void)initSubviews{
     self.backgroundColor = UIColor.whiteColor;
     [self addSubview: self.selectAllImageView];
@@ -75,5 +75,6 @@
     }
     return _selectAllLabel;
 }
+ */
 
 @end
