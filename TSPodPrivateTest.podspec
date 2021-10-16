@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/yanxin/TSPodPrivateTest'
+  s.homepage         = 'https://github.com/yanxin0905/TSPodPrivateTest'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'yanxin0905' => '345387567@qq.com' }
@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'TSPodPrivateTest/Classes/**/*.{h,m}'
+  s.source_files = 'TSPodPrivateTest/Classes/**/*'
   
   # s.resource_bundles = {
   #   'TSPodPrivateTest' => ['TSPodPrivateTest/Assets/*.png']
