@@ -1,0 +1,16 @@
+PODS:
+  - TSPodPrivateTest (0.1.0)
+
+DEPENDENCIES:
+  - TSPodPrivateTest (from `../`)
+
+EXTERNAL SOURCES:
+  TSPodPrivateTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TSPodPrivateTest: c6d0cd5037342d880d930b6c3c53d66451baf7b9
+
+PODFILE CHECKSUM: f40027e18428c83b45e1c5586ce0be7b9e5c072a
+
+COCOAPODS: 1.11.2
