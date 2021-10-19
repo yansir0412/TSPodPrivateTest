@@ -9,7 +9,11 @@
 Pod::Spec.new do |s|
   s.name             = 'TSPodPrivateTest'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of TSPodPrivateTest.'
+  s.summary          = 'My TSPodPrivateTest'
+  
+  s.description      = <<-DESC
+                          here is description.
+                         DESC
 
   s.homepage         = 'https://github.com/yanxin0905/TSPodPrivateTest'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
